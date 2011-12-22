@@ -22,7 +22,7 @@
     "xml2js": "0.1.x",
     "soupselect": "0.2.0",
     "htmlparser": "1.7.x",
-    "wolfram": "1.1.0",
+    "wolfram": "0.1.1",
     "sprintf": "0.1.1",
     "wwwdude": "0.1.0",
     "pypi": "0.1.0",
